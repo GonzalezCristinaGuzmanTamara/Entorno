@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ejercicio1 {
-	// Comentario proyecto TamaraGuzman.
+	// Cambio de comentario CristinaGonzález
 	// Constantes
 	private static final int EDAD_MAXIMA = 100;
 	private static final int LIMITE_NINNO = 12;
@@ -13,7 +13,6 @@ public class Ejercicio1 {
 	public static void main(String[] args) {
 		// Variables
 		int edad;
-		//ola
 		//Inicio
 		System.out.println("Introduce la edad, máximo " + EDAD_MAXIMA);
 		edad = Integer.parseInt(teclado.nextLine()); // leer numero
