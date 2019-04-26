@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ejercicio1 {
-	// Cambio de comentario CristinaGonzalez para realizar el punto 5
+	// Cambio de comentario CristinaGonzalez y TamaraGuzman para realizar el punto 5
 	// Constantes
 	private static final int EDAD_MAXIMA = 100;
 	private static final int LIMITE_NINNO = 12;
