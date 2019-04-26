@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 public class Ejercicio1 {
-		
+	//Comentario para realizar actividad 3 TamaraGuzman.
 	// Constantes
 	private static final int EDAD_MAXIMA = 100;
-	private static final int LIMITE_NINNO = 12;	//Comentario para realizar actividad 3 TamaraGuzman.
+	private static final int LIMITE_NINNO = 12;	
 	private static final int LIMITE_ADOLESCENTE = 17;
 	private static final int LIMITE_JOVEN = 29;
 	
